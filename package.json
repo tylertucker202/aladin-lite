@@ -1,0 +1,24 @@
+{
+  "name": "aladin-lite",
+  "version": "1.0.0",
+  "description": "**An astronomical HiPS visualizer in the browser** <img src=\"aladin-logo.png\" alt=\"Aladin Lite logo\" width=\"220\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylertucker202/aladin-lite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylertucker202/aladin-lite/issues"
+  },
+  "homepage": "https://github.com/tylertucker202/aladin-lite#readme",
+  "dependencies": {
+    "lessc": "^1.0.2",
+    "s": "^1.0.0",
+    "uglify": "^0.1.5"
+  }
+}
